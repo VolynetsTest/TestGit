@@ -13,6 +13,7 @@ namespace TestGit
         
             Console.WriteLine("Hello World!");
             Console.WriteLine("My commit");
+            Console.WriteLine("This is Yevhen computer");
             Console.ReadKey();
 
 
